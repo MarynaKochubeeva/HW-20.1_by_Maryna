@@ -1,0 +1,33 @@
+body {
+    background-color: #B68973;
+    color: #003366;
+    font-size: 22px;
+    text-align: center;
+    margin: 0;
+}
+
+#main-header {
+    text-align: center;
+}
+
+#content-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#main-photo {
+    width: 50%;
+    height: auto;
+    margin-right: 20px;
+}
+
+#description {
+    max-width: 600px;
+    text-align: left;
+}
+#link{
+	color: #FFDAB9;
+	text-decoration: none;
+}
